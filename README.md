@@ -1,1 +1,3 @@
 # MP3_Stream
+
+This project is MP3 streaming service using voice recognition which is Google STT. So using this service, you can listen music without keyboard or mouse. we used youtube-dl to download music. If you just say a name of music, it downloads the music in a server and then server will send a piece of file to client. After client gets a piece of file, this program plays the music automately. Feel free to use! Enjoy!
